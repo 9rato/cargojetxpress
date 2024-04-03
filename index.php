@@ -86,7 +86,7 @@ if(isset($_POST['submit'])){
         <!-- Responsive CSS -->
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="assets/img/cargojiji.svg">
+		<link rel="icon" type="image/png" href="assets/img/cargojetxpress.svg">
 		<!-- Add the Font Awesome CSS link -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -98,7 +98,7 @@ if(isset($_POST['submit'])){
   </style>
 		
         <!-- TITLE -->
-        <title>Cargojiji</title>
+        <title>cargojetxpress</title>
     </head>
 
     <body>
@@ -129,7 +129,7 @@ function googleTranslateElementInit() {
 						<div class="col-lg-3">
 							<div class="header-left-content">
 								<a href="index.php">
-								<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+								<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 								</a>
 							</div>
 						</div>
@@ -145,10 +145,10 @@ function googleTranslateElementInit() {
 										</a>
 									</li>
 									<li>
-										<a href="mailto:contact@cargojiji.com">
+										<a href="mailto:contact@cargojetxpress.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@cargojiji.com
+											contact@cargojetxpress.com
 										</a>
 									</li>
 									<li class="pl-0">
@@ -214,7 +214,7 @@ function googleTranslateElementInit() {
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
 						<a href="index.php" class="logo">
-							<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+							<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 						</a>
 					</div>
 					<!-- Menu For Desktop Device -->
@@ -365,14 +365,14 @@ function googleTranslateElementInit() {
 							</button>
 							<h2 class="modal-title" id="myModalLabel2">
 								<a href="index.php">
-									<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+									<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 								</a>
 							</h2>
 						</div>
 						<div class="modal-body">
 							<div class="sidebar-modal-widget">
 								<h3 class="title">About Us</h3>
-								<p>Cargojiji offers a host of logistic management services and supply chain solutions. 
+								<p>cargojetxpress offers a host of logistic management services and supply chain solutions. 
 								We provide innovative solutions with the best people, processes, and technology. </p>
 							</div>
 							
@@ -387,7 +387,7 @@ function googleTranslateElementInit() {
 									<li>
 										<i class="bx bx-envelope"></i>
 										Email
-										<span>contact@cargojiji.com</span>
+										<span>contact@cargojetxpress.com</span>
 									</li>
 									<li>
 										<i class="bx bxs-phone-call"></i>
@@ -487,7 +487,7 @@ function googleTranslateElementInit() {
 							<div class="container">
 								<div class="prevoz-slider-text overflow-hidden one">
 									<span>Welcome</span>
-									<h1>Cargojiji and Logistics Company</h1>
+									<h1>cargojetxpress and Logistics Company</h1>
 									
 									
 									
@@ -580,7 +580,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-air-freight"></i>
 							<h3>Air Freight</h3>
-							<p>Cargojiji Company is an airfreight forwarding specialists offering a comprehensive ...</p>
+							<p>cargojetxpress Company is an airfreight forwarding specialists offering a comprehensive ...</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -590,7 +590,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-plastic-bottle"></i>
 							<h3>Ocean Freight</h3>
-							<p>Cargojiji Company flexible and scalable sea freight solutions cover your ...</p>
+							<p>cargojetxpress Company flexible and scalable sea freight solutions cover your ...</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -600,7 +600,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-street"></i>
 							<h3>Road  Freight</h3>
-							<p>Cargojiji Transport offers an efficient integrated transport system with multiple types ..</p>
+							<p>cargojetxpress Transport offers an efficient integrated transport system with multiple types ..</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -619,7 +619,7 @@ function googleTranslateElementInit() {
 						<div class="about-content">
 							<span>Know About Us </span>
 							<h2>Reliable and express logistics and transport solutions That does not waste your time!</h2>
-							<p>Cargojiji offers a host of logistic management services and supply chain solutions. 
+							<p>cargojetxpress offers a host of logistic management services and supply chain solutions. 
 							We provide innovative solutions with the best people, processes, and technology. With over 
 							60 years of providing world class service to their customers on the asset side, a need to 
 							provide a one stop shop for a” true customer service logistic solution” was introduced. By 
@@ -682,7 +682,7 @@ function googleTranslateElementInit() {
 						<div class="testimonials-wrap">
 							<img src="assets/img/testimonials/1.jpg" alt="Image">
 							<div class="testimonials-content">
-								<p>Cargojiji Company is the fastest and reliable shipping company i have ever seen. </p>
+								<p>cargojetxpress Company is the fastest and reliable shipping company i have ever seen. </p>
 								<h3>Juhon Dew</h3>
 								<ul>
 									<li>
@@ -706,7 +706,7 @@ function googleTranslateElementInit() {
 						<div class="testimonials-wrap">
 							<img src="assets/img/testimonials/2.jpg" alt="Image">
 							<div class="testimonials-content">
-								<p>My package came right on time... Thanks to Cargojiji International!</p>
+								<p>My package came right on time... Thanks to cargojetxpress International!</p>
 								<h3>Moris Noman</h3>
 								<ul>
 									<li>
@@ -730,7 +730,7 @@ function googleTranslateElementInit() {
 						<div class="testimonials-wrap">
 							<img src="assets/img/testimonials/3.jpg" alt="Image">
 							<div class="testimonials-content">
-								<p>There are many variations of shipping agency... Cargojiji is the best i have ever worked with</p>
+								<p>There are many variations of shipping agency... cargojetxpress is the best i have ever worked with</p>
 								<h3>Jon Smit</h3>
 								<ul>
 									<li>
@@ -871,7 +871,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">cargojetxpress</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

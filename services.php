@@ -33,10 +33,10 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="assets/img/cargojiji.svg">
+		<link rel="icon" type="image/png" href="assets/img/cargojetxpress.svg">
 		
         <!-- TITLE -->
-        <title>Cargojiji</title>
+        <title>cargojetxpress</title>
     </head>
 
     <body>
@@ -67,7 +67,7 @@ function googleTranslateElementInit() {
 						<div class="col-lg-3">
 							<div class="header-left-content">
 								<a href="index.php">
-									<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+									<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 								</a>
 							</div>
 						</div>
@@ -82,10 +82,10 @@ function googleTranslateElementInit() {
 										</a>
 									</li>
 									<li>
-										<a href="mailto:contact@cargojiji.com">
+										<a href="mailto:contact@cargojetxpress.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@cargojiji.com
+											contact@cargojetxpress.com
 										</a>
 									</li>
 									<li class="pl-0">
@@ -150,7 +150,7 @@ function googleTranslateElementInit() {
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
 						<a href="index.php" class="logo">
-							<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+							<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 						</a>
 					</div>
 					<!-- Menu For Desktop Device -->
@@ -300,14 +300,14 @@ function googleTranslateElementInit() {
 							</button>
 							<h2 class="modal-title" id="myModalLabel2">
 								<a href="index.php">
-									<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+									<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 								</a>
 							</h2>
 						</div>
 						<div class="modal-body">
 							<div class="sidebar-modal-widget">
 								<h3 class="title">About Us</h3>
-								<p>Cargojiji offers a host of logistic management services and supply chain solutions.</p>
+								<p>cargojetxpress offers a host of logistic management services and supply chain solutions.</p>
 							</div>
 							
 							<div class="sidebar-modal-widget">
@@ -423,7 +423,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-air-freight"></i>
 							<h3>Air Freight</h3>
-							<p>Cargojiji Company is an airfreight forwarding specialists offering a comprehensive ...</p>
+							<p>cargojetxpress Company is an airfreight forwarding specialists offering a comprehensive ...</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -434,7 +434,7 @@ function googleTranslateElementInit() {
 							<i class="icon flaticon-plastic-bottle"></i>
 							<h3>Ocean Freight</h3>
 		
-							<p>Cargojiji Company flexible and scalable sea freight solutions cover your ...</p>
+							<p>cargojetxpress Company flexible and scalable sea freight solutions cover your ...</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -444,7 +444,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-street"></i>
 							<h3>Road  Freight</h3>
-							<p>Cargojiji Transport offers an efficient integrated transport system with multiple types ..</p>
+							<p>cargojetxpress Transport offers an efficient integrated transport system with multiple types ..</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -462,7 +462,7 @@ function googleTranslateElementInit() {
 				<div class="section-title">
 					<span>Began With Roles</span>
 					<h2>Please obey the roles to keep safe</h2>
-					<p>Cargojiji offers a host of logistic management services and supply chain solutions.</p>
+					<p>cargojetxpress offers a host of logistic management services and supply chain solutions.</p>
 				</div>
 				<div class="began-top-wrap">
 					<div class="row">
@@ -538,7 +538,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">cargojetxpress</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

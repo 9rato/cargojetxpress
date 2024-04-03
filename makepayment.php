@@ -45,10 +45,10 @@ include "config/database.php";
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="assets/img/cargojiji.svg">
+		<link rel="icon" type="image/png" href="assets/img/cargojetxpress.svg">
 		
         <!-- TITLE -->
-        <title>Cargojiji</title>
+        <title>cargojetxpress</title>
     </head>
 
     <body>
@@ -79,7 +79,7 @@ function googleTranslateElementInit() {
 						<div class="col-lg-3">
 							<div class="header-left-content">
 								<a href="index.php">
-									<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+									<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 								</a>
 							</div>
 						</div>
@@ -94,10 +94,10 @@ function googleTranslateElementInit() {
 										</a>
 									</li>
 									<li>
-										<a href="mailto:contact@cargojiji.com">
+										<a href="mailto:contact@cargojetxpress.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@cargojiji.com
+											contact@cargojetxpress.com
 										</a>
 									</li>
 									<li class="pl-0">
@@ -162,7 +162,7 @@ function googleTranslateElementInit() {
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
 						<a href="index.php" class="logo">
-							<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
+							<img src="assets/img/logo/cargojetxpress.svg" alt="Logo" style="width: 70px">
 						</a>
 					</div>
 					<!-- Menu For Desktop Device -->
@@ -350,7 +350,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">cargojetxpress</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">
